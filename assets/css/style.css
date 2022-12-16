@@ -5,7 +5,7 @@
     box-sizing: border-box;
   }
 
-  body {
+body {
     font-family: 'Montserrat', sans-serif;
   }
 
@@ -15,4 +15,9 @@
     background-size: cover;
     height: 100vh;
     overflow: hidden;
-  }
+ }
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.2);
+    font-weight: 800;
+ }
