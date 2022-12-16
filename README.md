@@ -16,7 +16,7 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
   - [Site Owner Goals](#site-owner-goals)
 - [User Experience](#user-experience)
   - [Target Audience](#target-audience)
-  - [User Requrements and Expectations](#user-requrements-and-expectations)
+  - [User Requirements and Expectations](#user-requirements-and-expectations)
   - [User Stories](#user-stories)
 - [Design](#design)
   - [Design Choices](#design-choices)
@@ -47,12 +47,31 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
 ## Project Goals
 
 ### User Goals
+- Find directions for travel
+- Find what to do in country
+- Explore the country's culture
+- Be inspired by a new journey
+- Buy a souvenir for yourself or for your relatives
 ### Site Owner Goals
+- Find customers for bussines
+- Show customer new country to visit
+- Inspire a person on a new journey
+- Provide a clear information about tours through Ukraine
+- Provide a way to contact the bussines
+- Provide access to the gift shop
 
 ## User Experience
 
 ### Target Audience
-### User Requrements and Expectations
+- People deciding where to go on a trip
+- People who love travel
+- People looking for gifts for themselves and their relatives
+### User Requirements and Expectations
+- Great content that will make the customer think about the trip
+- Intuitive navigation, which will help you navigate the site easily
+- Good presentation and consistent design on all screens
+- An easy way to contact bussines
+- The store's product description is available
 ### User Stories
 
 ## Design
