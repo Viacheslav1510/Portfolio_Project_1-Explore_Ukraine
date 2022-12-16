@@ -83,6 +83,7 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
 ### Wireframes
 <details><summary>Home</summary>
 <img src="docs/wireframes/homepage.png">
+
 ## Technologies Used
 
 ### Languages
