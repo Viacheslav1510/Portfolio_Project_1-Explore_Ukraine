@@ -1,6 +1,6 @@
 (Developer: Slava Kondriianenko)
 
-Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. The website presents the most visited places of Ukraine, as well as a store where you can choose some souvenirs from the country.
+Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. The website presents the most visited places of Ukraine, as well as a shop where you can choose some souvenirs from the country.
 
 
 <img src="" alt="" width="200" height="200">
@@ -18,6 +18,8 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
   - [Target Audience](#target-audience)
   - [User Requirements and Expectations](#user-requirements-and-expectations)
   - [User Stories](#user-stories)
+    - [First-time User](#first-time-user)
+    - [Returning User](#returning-user)
 - [Design](#design)
   - [Design Choices](#design-choices)
   - [Colour](#colour)
@@ -71,8 +73,22 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
 - Intuitive navigation, which will help you navigate the site easily
 - Good presentation and consistent design on all screens
 - An easy way to contact bussines
-- The store's product description is available
+- The shop's product description is available
+  
 ### User Stories
+
+#### First-time User 
+- As a first time user, I want to know the best places in the country
+- I want to find a place to stay and a good place to eat
+- I want to apply for a tour calculation
+- I want to find the best souvenirs to remember the trip
+- As a first time user, I want easy to contact the company and get a response
+  
+#### Returning User
+- As a a returning user, I want to find new ways to travel
+- I want to see the possibility of recreation in the mountains or at the sea, as well as the sights of the cities
+- As a returning user, I want to leave some comment, suggestion or message to the staff
+- I want to easily find a souvenir shop on the map
 
 ## Design
 
@@ -101,7 +117,7 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
 - navigation bar
 - tours section
 - contact section
-- store page
+- shop page
 - footer
 
 ## Testing
