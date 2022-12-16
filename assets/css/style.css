@@ -3,11 +3,11 @@
     padding: 0;
     border: none;
     box-sizing: border-box;
-  }
+}
 
 body {
     font-family: 'Montserrat', sans-serif;
-  }
+}
 
 /* Header, logo, navbar, main text on the background image */
 #header {
@@ -15,12 +15,27 @@ body {
     background-size: cover;
     height: 100vh;
     overflow: hidden;
- }
+}
 
 .navbar {
     background-color: rgba(0, 0, 0, 0.2);
     font-weight: 800;
- }
+    padding: 10px 25px;
+}
+
+.nav-item {
+    padding-left: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    font-size: 1.5em;
+    color: #42032C;
+}
+  
+.navbar a:hover {
+    color: #FECD70;
+}
 
 .main-text {
     color: #FFE15D;
@@ -31,9 +46,10 @@ body {
     text-align: right;
     bottom: 30%;
     right: 2%;
-  }
+}
 
-  .main-text h1 {
+.main-text h1 {
     margin-bottom: 5px;
     font-weight: 800;
-  }
+}
+
