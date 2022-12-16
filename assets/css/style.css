@@ -4,3 +4,15 @@
     border: none;
     box-sizing: border-box;
   }
+
+  body {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+/* Header, logo, navbar, main text on the background image */
+#header {
+    background: url('../images/hero-image.jpg') no-repeat;
+    background-size: cover;
+    height: 100vh;
+    overflow: hidden;
+  }
