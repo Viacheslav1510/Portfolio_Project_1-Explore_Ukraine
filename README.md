@@ -93,6 +93,8 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
 ## Design
 
 ### Design Choices
+The web page has been designed keeping in mind the first expression that the customer may have during his first perception. The first look captures the mountain landscape at sunrise with Burnt Maroon color for logo and navigation. Scrolling down the page, the user gets to the significant places section on a soft green (light shade of green) background, which makes customer to stay longer on the website and calmly enjoy the view of the place due to calm shades of the page. 
+A minimalist style was chosen for the store page in order to keep the customer's eye on the products rather than overall view, where photos of souvenirs with a Burnt Maroon title are placed on a white background.
 ### Colour
 ### Fonts
 ### Structure
