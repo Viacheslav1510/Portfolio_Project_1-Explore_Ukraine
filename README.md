@@ -98,7 +98,7 @@ A minimalist style was chosen for the shop page in order to keep the customer's 
 ### Colour
 For the colour sheme maroon tones were chosen to match the most important information on the page and also the media elements in the footer. The main section with significant places highlighted with a soft green color. Contacts were highlighted with calmly shade of cyan. To narrow down the colours I used Adobe Color. 
 <br>
-
+![Colour scheme](docs/features/color-palette.png)
 ### Fonts
 ### Structure
 ### Wireframes
