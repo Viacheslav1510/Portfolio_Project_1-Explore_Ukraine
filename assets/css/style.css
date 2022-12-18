@@ -184,3 +184,9 @@ textarea {
 }
 
 /* footer */
+#footer {
+    padding: 3%;
+    text-align: center;
+    background-color: white;
+    margin-top: auto;
+}
