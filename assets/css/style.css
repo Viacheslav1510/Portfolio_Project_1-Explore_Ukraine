@@ -254,6 +254,11 @@ textarea {
     margin-left: 30px;
 }
 
+.store-text h2 {
+    font-weight: 800;
+    color: #42032C;
+}
+
 /* Media rules */
 @media screen and (max-width: 950px) {
     
