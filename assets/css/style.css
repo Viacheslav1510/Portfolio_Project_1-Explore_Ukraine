@@ -288,7 +288,27 @@ textarea {
     }
     
     /* shop page */
+    .container {
+        flex-direction: column;
+    }
     
+    .store-image img {
+        height: 450px;
+        width: 100%;
+    }
+    
+    .store-text {
+        margin-top: 20px;
+    }
+    
+    hr {
+        border: none;
+        border-top: 6px dotted #AAAAAA;
+        height: 1px;
+        width: 25%;
+        position: relative;
+        left: 35%;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -303,6 +323,8 @@ textarea {
         object-fit: cover;
         object-position: bottom;
     }
+
+
 }
 
 @media screen and (max-width: 400px) {
