@@ -229,6 +229,22 @@ textarea {
     color: #42032C;
 }
 
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 20px;
+}
+  
+.content {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+    justify-content: center;
+}
+
 /* Media rules */
 @media screen and (max-width: 950px) {
     
