@@ -140,3 +140,22 @@ body {
     text-align: center;
     font-weight: 800;
 }
+
+.field {
+    margin: 5px 0;
+    padding: 5px 0;
+    background-color: #E5DCC3;
+    color: #42032C;
+}
+  
+textarea {
+    width: 100%;
+    min-height: 200px;
+    max-height: 400px;
+    resize: vertical;
+    padding: 12px;
+    background-color: #E5DCC3;
+    border: none;
+    color: #42032C;
+    margin: 5px 0 20px 0;
+}
