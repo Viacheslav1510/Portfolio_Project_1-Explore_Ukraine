@@ -53,3 +53,16 @@ body {
     font-weight: 800;
 }
 
+/* places section */
+#places-container {
+    text-align: center;
+    margin: 2%;
+    background-color: #CEE5D0;
+}
+
+.places-intro {
+    padding: 60px 25px 25px 25px;
+    font-size: 1.5em;
+    text-align: right;
+    padding-right: 2%;
+}
