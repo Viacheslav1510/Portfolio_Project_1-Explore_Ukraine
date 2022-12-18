@@ -210,6 +210,25 @@ textarea {
     font-size: 2.5em;
 }
 
+/* store page */
+
+#souvenirs {
+    padding-top: 100px;
+}
+  
+#souvenirs h1 {
+    text-align: center;
+    padding-top: 20px;
+    font-weight: 800;
+    color: #42032C;
+}
+  
+#souvenirs h3 {
+    text-align: center;
+    padding-bottom: 20px;
+    color: #42032C;
+}
+
 /* Media rules */
 @media screen and (max-width: 950px) {
     
