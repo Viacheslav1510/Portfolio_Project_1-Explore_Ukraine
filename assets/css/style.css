@@ -132,4 +132,11 @@ body {
     max-height: 400px;
     resize: vertical;
     display: grid;
-  }
+}
+
+.contact-form h2 {
+    text-transform: uppercase;
+    color: #42032C;
+    text-align: center;
+    font-weight: 800;
+}
