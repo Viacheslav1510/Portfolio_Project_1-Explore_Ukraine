@@ -159,3 +159,27 @@ textarea {
     color: #42032C;
     margin: 5px 0 20px 0;
 }
+
+.btn {
+    width: 30%;
+    -webkit-border-radius: 20;
+    -moz-border-radius: 20;
+    border-radius: 20px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 17px;
+    background: #42032C;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+    background: #208a47;
+    background-image: -webkit-linear-gradient(top, #208a47, #70165d);
+    background-image: -moz-linear-gradient(top, #208a47, #70165d);
+    background-image: -ms-linear-gradient(top, #208a47, #70165d);
+    background-image: -o-linear-gradient(top, #208a47, #70165d);
+    background-image: linear-gradient(to bottom, #208a47, #70165d);
+    text-decoration: none;
+}
+
