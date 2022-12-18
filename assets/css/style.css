@@ -60,6 +60,16 @@ body {
     background-color: #CEE5D0;
 }
 
+#places-container h2 {
+    font-weight: 800;
+    color: #42032C;
+}
+  
+#places-container h3 {
+    font-weight: 800;
+    color: #42032C;
+}
+
 .places-intro {
     padding: 60px 25px 25px 25px;
     font-size: 1.5em;
@@ -93,3 +103,4 @@ body {
     object-fit: cover;
     object-position: bottom;
 }
+
