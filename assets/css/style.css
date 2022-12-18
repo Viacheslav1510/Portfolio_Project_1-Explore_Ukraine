@@ -104,3 +104,14 @@ body {
     object-position: bottom;
 }
 
+/* contacts section */
+#contacts {
+    width: 100%;
+    padding: 60px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #80A5A0;
+  }
+  
