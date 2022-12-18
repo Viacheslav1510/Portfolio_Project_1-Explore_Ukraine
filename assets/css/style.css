@@ -114,4 +114,15 @@ body {
     flex-wrap: wrap;
     background-color: #80A5A0;
 }
+
+.contact-info, .contact-form{
+    flex: 1;
+}
   
+.item {
+    margin-bottom: 24px;
+    font-size: 1.25em;
+    color: #322;
+    font-weight: 800;
+}
+
