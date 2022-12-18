@@ -259,6 +259,18 @@ textarea {
     color: #42032C;
 }
 
+/* google map iframe */
+#google-map h2 {
+    text-align: center;
+    padding: 15px 0 15px 0;
+}
+  
+#google-map div {
+    width: 80%;
+    position: relative;
+    left: 10%;
+}
+
 /* Media rules */
 @media screen and (max-width: 950px) {
     
