@@ -77,6 +77,10 @@ body {
     padding-right: 2%;
 }
 
+.line {
+    display: none;
+}
+
 .row {
     display: flex;
     flex-direction: row;
@@ -300,10 +304,20 @@ textarea {
     .store-text {
         margin-top: 20px;
     }
-    
+
+    .line {
+        display: block;
+        border: none;
+        border-top: 6px dotted #42032C;
+        height: 1px;
+        width: 25%;
+        position: relative;
+        left: 38%;
+    }
+
     hr {
         border: none;
-        border-top: 6px dotted #AAAAAA;
+        border-top: 6px dotted #42032C;
         height: 1px;
         width: 25%;
         position: relative;
@@ -324,7 +338,19 @@ textarea {
         object-position: bottom;
     }
 
-
+    .container {
+        flex-direction: column;
+    }
+    
+    .store-image img {
+        height: 500px;
+        width: 100%;
+    }
+    
+    .image-container {
+        flex: 33.33%;
+        padding: 0;
+    }
 }
 
 @media screen and (max-width: 400px) {
@@ -334,5 +360,10 @@ textarea {
     }
     .navbar a {
         font-size: 1.25em;
+    }
+
+    .store-image img {
+        height: 250px;
+        width: 100%;
     }
 }
