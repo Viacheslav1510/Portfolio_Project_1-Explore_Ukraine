@@ -276,7 +276,32 @@ textarea {
 }
 
 /* page 404 */
- 
+#not-found {
+    text-align: center;
+    color: #ffffff;
+    font-weight: 800;
+}
+  
+.error-text {
+    margin: 15px auto;
+    padding: 15px;
+    font-size: 1.25em;
+    background-color: #DC3535;    
+}
+
+.error-container {
+    display: flex;
+    justify-content: center;
+}
+
+.image-container {
+    padding: 5px;
+}
+  
+.error-image {
+    height: 300px;
+}
+
 /* Media rules */
 @media screen and (max-width: 950px) {
     
