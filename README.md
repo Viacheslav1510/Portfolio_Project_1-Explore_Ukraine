@@ -54,11 +54,11 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
 - Be inspired by a new journey
 - Buy a souvenir for yourself or for your relatives
 ### Site Owner Goals
-- Find customers for bussines
+- Find customers for business
 - Show customer new country to visit
 - Inspire a person on a new journey
 - Provide a clear information about tours through Ukraine
-- Provide a way to contact the bussines
+- Provide a way to contact the business
 - Provide access to the gift shop
 
 ## User Experience
@@ -71,7 +71,7 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
 - Great content that will make the customer think about the trip
 - Intuitive navigation, which will help you navigate the site easily
 - Good presentation and consistent design on all screens
-- An easy way to contact bussines
+- An easy way to contact business
 - The shop's product description is available
   
 ### User Stories
@@ -102,12 +102,12 @@ For the colour sheme maroon tones were chosen to match the most important inform
 ### Fonts
 Montserrat was used for the main page and shop page. Bold font indicates headings, while normal text is used for paragraphs. 
 ### Structure
-The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the bussines logo on the left side and the navigation links to the right.
+The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the business logo on the left side and the navigation links to the right.
 Website consists of two separate pages:
 - Home page with four sections:
   - Main heading section with background image and navigation bar .
   - Tours section with four significant places.
-  - Contacts section with information about bussines and contact form.
+  - Contacts section with information about business and contact form.
   - Section with links for social media.
 - Shop page:
   - Navigation bar on the top of the page.
