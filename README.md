@@ -41,7 +41,6 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
     - [Desktop](#desktop)
     - [Mobile](#mobile)
   - [Browser compatibility](#browser-compatibility)
-  - [Testing user stories](#testing-user-stories)
 - [Bugs](#bugs)
 - [Deployment](#deployment)
 - [Credits](#credits)
@@ -191,11 +190,18 @@ Tested website for mobile on Google Devtools Lighthouse.
 <img src="docs/validation/mobile-lighthouse.png" alt="Css Validation whole">
 
 ### Browser compatibility
-### Testing user stories
+The website was tested on the following browsers:
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Egde
+- Safari
 
 ## Bugs
+
 ## Deployment
+
 ## Credits
+
 ### Code
 
 ### Media
