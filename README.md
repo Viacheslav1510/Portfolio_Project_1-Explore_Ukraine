@@ -162,16 +162,26 @@ Footer contains icon links to social media.
 
 ### Shop page main section
 Shop main section contains ideas for souvenirs from Ukraine and their description.
-<img src="docs/features/feature-shop-header.png" alt="Shop Header"/>
+<img src="docs/features/feature-shop-header.png" />
 
 ### Shop page google map section
 The last section shows google map, which helps user to find offline shop.
-<img src="docs/features/feature-shop-map.png" alt="Shop map" />  
+<img src="docs/features/feature-shop-map.png"/>  
 
 ## Validation
 
 ### HTML Validation
+Tested HTML code with [W3C Validator](https://validator.w3.org/) and returned no errors.
+<img src="docs/validation/html-validation.png" alt="HTML Validation">
+
 ### CSS Validation
+Tested CSS code with [W3C Jigsaw CSS Validation Service](https://jigsaw.w3.org/css-validator/).
+When validating the page as a whole, the validator shows some errors linked to Bootstrap v5.0. When validating just my own custom CSS it passes with no errors found and some warnings associated to using root variables.
+- Whole page
+  <img src="docs/validation/validation-css-whole-page.png" alt="Css Validation whole">
+- Custom CSS
+  <img src="docs/validation/validation-css-style.png" alt="Css Validation whole">
+
 ### Existing features
 ### Features left to Implement
 - landing page
