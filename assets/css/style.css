@@ -302,6 +302,23 @@ textarea {
     height: 300px;
 }
 
+.back-btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    background: #42032C;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.back-btn:hover {
+    background: #76BA99;
+    text-decoration: none;
+}
+
 /* Media rules */
 @media screen and (max-width: 950px) {
     
