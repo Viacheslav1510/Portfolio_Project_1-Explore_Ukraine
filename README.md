@@ -22,13 +22,15 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
 - [Design](#design)
   - [Design Choices](#design-choices)
   - [Colour](#colour)
-  - [Fonts](#fonts)
+  - [Font](#font)
   - [Structure](#structure)
   - [Wireframes](#wireframes)
 - [Technologies Used](#technologies-used)
   - [Languages](#languages)
   - [Frameworks \& Tools](#frameworks--tools)
 - [Features](#features)
+  - [Header](#header)
+  - [Tours section](#tours-section)
 - [Validation](#validation)
   - [HTML Validation](#html-validation)
   - [CSS Validation](#css-validation)
@@ -99,7 +101,7 @@ For the colour sheme maroon tones were chosen to match the most important inform
 <br>
 ![Colour scheme](docs/features/color-palette.png)
 
-### Fonts
+### Font
 Montserrat was used for the main page and shop page. Bold font indicates headings, while normal text is used for paragraphs. 
 ### Structure
 The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the business logo on the left side and the navigation links to the right.
@@ -141,6 +143,13 @@ Website consists of two separate pages:
 
 
 ## Features
+### Header
+The header contains background image, navbar with logo and main text. Navbar is
+sticky on scrolling and let the user navigate through sections and pages. The header is responsive on all screens.
+<img src="docs/features/feature-header.png" alt="Website Header" />
+
+### Tours section
+
 
 ## Validation
 
