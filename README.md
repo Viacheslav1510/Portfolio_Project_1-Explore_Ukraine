@@ -42,7 +42,6 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
     - [Mobile](#mobile)
   - [Browser compatibility](#browser-compatibility)
 - [Bugs](#bugs)
-- [Deployment](#deployment)
 - [Credits](#credits)
   - [Code](#code)
   - [Media](#media)
@@ -197,8 +196,11 @@ The website was tested on the following browsers:
 - Safari
 
 ## Bugs
-
-## Deployment
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+|  |  |
+|  |  |
+|  |  |
 
 ## Credits
 
@@ -211,4 +213,5 @@ The website was tested on the following browsers:
 - Photos for hero image and tours section were taken from [wallpaperflare.com](https://www.wallpaperflare.com/)
 - Images and text for shop page were taken from website [guideme.com.ua](https://guideme.com.ua/top-10-ukrainian-souvenirs-to-bring-from-kyiv-ukraine/)
 - Icons for logo and media links were taken from [Font Awesome](https://fontawesome.com/)
+- The creation of the [404 page](https://viacheslav1510.github.io/Portfolio_Project_1-Explore_Ukraine/Pulp%20Fiction) was inspired by Pulp Fiction movie.
 ## Acknowledgements
