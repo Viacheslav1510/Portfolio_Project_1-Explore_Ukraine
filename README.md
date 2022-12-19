@@ -183,8 +183,12 @@ When validating the page as a whole, the validator shows some errors linked to B
 
 ### Lighthouse testing
 #### Desktop
+Tested website for desktop on Google Devtools Lighthouse and received high marks.
+<img src="docs/validation/desktop-lighthouse.png" alt="Css Validation whole">
 
 #### Mobile
+Tested website for mobile on Google Devtools Lighthouse.
+<img src="docs/validation/mobile-lighthouse.png" alt="Css Validation whole">
 
 ### Browser compatibility
 ### Testing user stories
