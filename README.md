@@ -37,6 +37,9 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
 - [Validation](#validation)
   - [HTML Validation](#html-validation)
   - [CSS Validation](#css-validation)
+  - [Lighthouse](#lighthouse)
+    - [Desktop](#desktop)
+    - [Mobile](#mobile)
   - [Existing features](#existing-features)
   - [Features left to Implement](#features-left-to-implement)
 - [Testing](#testing)
@@ -181,6 +184,11 @@ When validating the page as a whole, the validator shows some errors linked to B
   <img src="docs/validation/validation-css-whole-page.png" alt="Css Validation whole">
 - Custom CSS
   <img src="docs/validation/validation-css-style.png" alt="Css Validation whole">
+
+### Lighthouse
+#### Desktop
+
+#### Mobile
 
 ### Existing features
 ### Features left to Implement
