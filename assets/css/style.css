@@ -334,6 +334,16 @@ textarea {
         object-fit: cover;
         object-position: bottom;
     }
+
+    .line {
+        display: block;
+        border: none;
+        border-top: 6px dotted #42032C;
+        height: 1px;
+        width: 25%;
+        position: relative;
+        left: 38%;
+    }
     
     /* shop page */
     .container {
@@ -349,16 +359,6 @@ textarea {
         margin-top: 20px;
     }
 
-    .line {
-        display: block;
-        border: none;
-        border-top: 6px dotted #42032C;
-        height: 1px;
-        width: 25%;
-        position: relative;
-        left: 38%;
-    }
-
     hr {
         border: none;
         border-top: 6px dotted #42032C;
@@ -370,6 +370,8 @@ textarea {
 }
 
 @media screen and (max-width: 768px) {
+    
+    /* places section */
     .row {
         flex-direction: column-reverse;
         margin-bottom: 5%;
@@ -382,6 +384,7 @@ textarea {
         object-position: bottom;
     }
 
+    /* shop page */
     .container {
         flex-direction: column;
     }
@@ -390,7 +393,8 @@ textarea {
         height: 500px;
         width: 100%;
     }
-    
+
+    /* error page */
     .image-container {
         flex: 33.33%;
         padding: 0;
@@ -403,6 +407,7 @@ textarea {
 
 @media screen and (max-width: 400px) {
 
+    /* navbar */
     .navbar {
         padding: 5px;
     }
@@ -410,11 +415,13 @@ textarea {
         font-size: 1.25em;
     }
 
+    /* shop page */
     .store-image img {
         height: 250px;
         width: 100%;
     }
 
+    /* error page */
     .error-container {
         flex-direction: column;
     }
