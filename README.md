@@ -203,6 +203,9 @@ The website was tested on the following browsers:
 ## Credits
 
 ### Code
+- The main part of the code was taken from the course [Diploma in Software Development, Code Institute](https://learn.codeinstitute.net/courses/)
+- The HTML for the responsive Navbar with toggler was taken from the [Bootstrap v5.2](https://getbootstrap.com/docs/5.2/components/navbar/#how-it-works) documentation code snippet.
+- To make flex boxes layout code was taken from [www.w3schools.com](https://www.w3schools.com/css/css3_flexbox.asp) documentation snippet.
 
 ### Media
 - Photos for hero image and tours section were taken from [wallpaperflare.com](https://www.wallpaperflare.com/)
