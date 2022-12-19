@@ -37,20 +37,16 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
 - [Validation](#validation)
   - [HTML Validation](#html-validation)
   - [CSS Validation](#css-validation)
-  - [Lighthouse](#lighthouse)
+  - [Lighthouse testing](#lighthouse-testing)
     - [Desktop](#desktop)
     - [Mobile](#mobile)
-  - [Existing features](#existing-features)
-  - [Features left to Implement](#features-left-to-implement)
-- [Testing](#testing)
-  - [Accessibility](#accessibility)
-  - [Performance](#performance)
-  - [Device testing](#device-testing)
   - [Browser compatibility](#browser-compatibility)
   - [Testing user stories](#testing-user-stories)
 - [Bugs](#bugs)
 - [Deployment](#deployment)
 - [Credits](#credits)
+  - [Code](#code)
+  - [Media](#media)
 - [Acknowledgements](#acknowledgements)
     
 ## Project Goals
@@ -185,28 +181,21 @@ When validating the page as a whole, the validator shows some errors linked to B
 - Custom CSS
   <img src="docs/validation/validation-css-style.png" alt="Css Validation whole">
 
-### Lighthouse
+### Lighthouse testing
 #### Desktop
 
 #### Mobile
 
-### Existing features
-### Features left to Implement
-- landing page
-- navigation bar
-- tours section
-- contact section
-- shop page
-- footer
-
-## Testing
-### Accessibility
-### Performance
-### Device testing
 ### Browser compatibility
 ### Testing user stories
 
 ## Bugs
 ## Deployment
 ## Credits
+### Code
+
+### Media
+- Photos for hero image and tours section were taken from [wallpaperflare.com](https://www.wallpaperflare.com/)
+- Images and text for shop page were taken from website [guideme.com.ua](https://guideme.com.ua/top-10-ukrainian-souvenirs-to-bring-from-kyiv-ukraine/)
+- Icons for logo and media links were taken from [Font Awesome](https://fontawesome.com/)
 ## Acknowledgements
