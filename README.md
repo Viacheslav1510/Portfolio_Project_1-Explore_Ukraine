@@ -124,7 +124,21 @@ Website consists of two separate pages:
 ## Technologies Used
 
 ### Languages
+- HTML
+- CSS
 ### Frameworks & Tools
+- [Bootstrap v5.2 navbar documentation](https://getbootstrap.com/docs/5.2/components/navbar/#how-it-works)
+- Git
+- GitHub
+- Gitpod
+- Visual Studio
+- Color Hunt
+- Adobe Color
+- Balsamiq
+- Google Fonts
+- Font Awesome
+- Favicon
+
 
 ## Features
 
