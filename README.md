@@ -4,7 +4,7 @@
 Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. The website presents the most visited places of Ukraine, as well as a shop where you can choose some souvenirs from the country.
 
 
-![Responsible mockup of the website]()
+![Responsible mockup of the website](docs/am-i-responsive.png)
 
 [View the deployed website]()
 
