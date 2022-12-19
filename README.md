@@ -31,6 +31,9 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
 - [Features](#features)
   - [Header](#header)
   - [Tours section](#tours-section)
+  - [Contacts section and footer section](#contacts-section-and-footer-section)
+  - [Shop page main section](#shop-page-main-section)
+  - [Shop page google map section](#shop-page-google-map-section)
 - [Validation](#validation)
   - [HTML Validation](#html-validation)
   - [CSS Validation](#css-validation)
@@ -146,10 +149,24 @@ Website consists of two separate pages:
 ### Header
 The header contains background image, navbar with logo and main text. Navbar is
 sticky on scrolling and let the user navigate through sections and pages. The header is responsive on all screens.
-<img src="docs/features/feature-header.png" alt="Website Header" />
+<img src="docs/features/feature-header.png" alt="Website Header"/>
 
 ### Tours section
+The tours section shows several significant places with links, which contains helps to find more detailed information.
+<img src="docs/features/feature-tours.png" alt="Website Tours"/>  
 
+### Contacts section and footer section
+Contacts section show information about company and gives an opportunity to contact the company representative with a question or proposal.
+Footer contains icon links to social media.
+<img src="docs/features/feature-contacts.png" alt="Website Contacts"/>  
+
+### Shop page main section
+Shop main section contains ideas for souvenirs from Ukraine and their description.
+<img src="docs/features/feature-shop-header.png" alt="Shop Header"/>
+
+### Shop page google map section
+The last section shows google map, which helps user to find offline shop.
+<img src="docs/features/feature-shop-map.png" alt="Shop map" />  
 
 ## Validation
 
