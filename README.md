@@ -6,7 +6,7 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
 
 ![Responsible mockup of the website](docs/am-i-responsive.png)
 
-[View the deployed website]()
+[Live website](https://viacheslav1510.github.io/Portfolio_Project_1-Explore_Ukraine/)
 
 ## Table of Content
 - [Table of Content](#table-of-content)
@@ -98,11 +98,25 @@ A minimalist style was chosen for the shop page in order to keep the customer's 
 For the colour sheme maroon tones were chosen to match the most important information on the page and also the media elements in the footer. The main section with significant places highlighted with a soft green color. Contacts were highlighted with calmly shade of cyan. To narrow down the colours I used Adobe Color. 
 <br>
 ![Colour scheme](docs/features/color-palette.png)
+
 ### Fonts
+Montserrat was used for the main page and shop page. Bold font indicates headings, while normal text is used for paragraphs. 
 ### Structure
+The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the bussines logo on the left side and the navigation links to the right.
+Website consists of two separate pages:
+- Home page with four sections:
+  - Main heading section with background image and navigation bar .
+  - Tours section with four significant places.
+  - Contacts section with information about bussines and contact form.
+  - Section with links for social media.
+- Shop page:
+  - Navigation bar on the top of the page.
+  - Section with souvenirs examples and their description.
+  - Google map section to find the shop on the map
 ### Wireframes
 <details><summary>Home</summary>
 <img src="docs/wireframes/homepage.png">
+
 
 ## Technologies Used
 
