@@ -116,7 +116,8 @@ Website consists of two separate pages:
 ### Wireframes
 <details><summary>Home</summary>
 <img src="docs/wireframes/homepage.png">
-
+<details><summary>Shop</summary>
+<img src="docs/wireframes/shop-page.png">
 
 ## Technologies Used
 
