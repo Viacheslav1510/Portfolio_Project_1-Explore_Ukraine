@@ -395,6 +395,10 @@ textarea {
         flex: 33.33%;
         padding: 0;
     }
+    
+    .error-image {
+        height: 150px;
+    }
 }
 
 @media screen and (max-width: 400px) {
@@ -409,5 +413,14 @@ textarea {
     .store-image img {
         height: 250px;
         width: 100%;
+    }
+
+    .error-container {
+        flex-direction: column;
+    }
+    
+    .image-container {
+        flex: 33.33%;
+        padding: 0;
     }
 }
