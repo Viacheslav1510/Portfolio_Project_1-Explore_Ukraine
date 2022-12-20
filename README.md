@@ -19,6 +19,7 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
   - [User Stories](#user-stories)
     - [First-time User](#first-time-user)
     - [Returning User](#returning-user)
+    - [Site Owner](#site-owner)
 - [Design](#design)
   - [Design Choices](#design-choices)
   - [Colour](#colour)
@@ -79,17 +80,23 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
 ### User Stories
 
 #### First-time User 
-- As a first time user, I want to know the best places in the country
-- I want to find a place to stay and a good place to eat
-- I want to apply for a tour calculation
-- I want to find the best souvenirs to remember the trip
-- As a first time user, I want easy to contact the company and get a response
+1. As a first time user, I want to know the best places in the country
+2. I want to find a place to stay and a good place to eat
+3. I want to apply for a tour calculation
+4. I want to find the best souvenirs to remember the trip
+5. As a first time user, I want easy to contact the company and get a response
   
 #### Returning User
-- As a a returning user, I want to find new ways to travel
-- I want to see the possibility of recreation in the mountains or at the sea, as well as the sights of the cities
-- As a returning user, I want to leave some comment, suggestion or message to the staff
-- I want to easily find a souvenir shop on the map
+6. As a a returning user, I want to find new ways to travel
+7. I want to see the possibility of recreation in the mountains or at the sea, as well as the sights of the cities
+8. As a returning user, I want to leave some comment, suggestion or message to the staff
+9. As a returning user, I want to find the company on social media
+10. I want to easily find a souvenir shop on the map
+#### Site Owner
+11. As the site owner, I want users to easy find what this website about
+12. As the site owner, I want users to to get to know the most common places in Ukraine.
+13. As the site owner, I want users to be able to contact us.
+14. As the site owner, I want to give users an opportunity to choose souvenirs from the store.
 
 ## Design
 
