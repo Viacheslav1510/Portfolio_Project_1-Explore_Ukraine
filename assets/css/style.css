@@ -279,13 +279,19 @@ textarea {
     padding: 15px 0 15px 0;
     color: #42032C;
 }
-  
+
 #google-map div {
     width: 80%;
     position: relative;
     left: 10%;
 }
 
+iframe {
+    width: 100%;
+    height: 300px;
+    border: none;
+    overflow: hidden;
+}
 /* page 404 */
 #not-found {
     padding-top: 66px;

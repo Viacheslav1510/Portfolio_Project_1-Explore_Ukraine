@@ -192,8 +192,13 @@ Website consists of two separate pages:
 ## Validation
 
 ### HTML Validation
-Tested HTML code with [W3C Validator](https://validator.w3.org/) and returned no errors.
+Tested HTML code with [W3C Validator](https://validator.w3.org/).
+<details><summary>Home</summary>
 <img src="docs/validation/html-validation.png" alt="HTML Validation">
+</details>
+<details><summary>Shop</summary>
+<img src="docs/validation/html-validation-shop.png" alt="HTML Validation">
+</details>
 
 ### CSS Validation
 Tested CSS code with [W3C Jigsaw CSS Validation Service](https://jigsaw.w3.org/css-validator/).
