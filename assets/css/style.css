@@ -291,14 +291,14 @@ textarea {
     padding-top: 66px;
     text-align: center;
     color: #ffffff;
-    font-weight: 800;
 }
   
 .error-text {
     margin: 15px auto;
     padding: 15px;
     font-size: 1.25em;
-    background-color: #DC3535;    
+    background-color: #DC3535;
+    font-weight: 800;    
 }
 
 .error-container {
