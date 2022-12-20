@@ -196,11 +196,12 @@ The website was tested on the following browsers:
 - Safari
 
 ## Bugs
-| **Bug** | **Fix** |
-| ----------- | ----------- |
-|  |  |
-|  |  |
-|  |  |
+| **Bug**       | **Fix**        |
+| --------------| ---------------|
+| Navbar divides into two rows on xs screen size |Decrease navbar padding and font size on xs screen|
+| Pictures look stretched on medium and small screens|Decrease images height in media query|
+| Low performance | Change hero image to webp format  |
+| Low accessebility  | Add aria-label attribute to footer links and change h4 to <p> in main text  |
 
 ## Credits
 
@@ -215,3 +216,6 @@ The website was tested on the following browsers:
 - Icons for logo and media links were taken from [Font Awesome](https://fontawesome.com/)
 - The creation of the [404 page](https://viacheslav1510.github.io/Portfolio_Project_1-Explore_Ukraine/Pulp%20Fiction) was inspired by Pulp Fiction movie.
 ## Acknowledgements
+- I would like to thank [Code Institute](https://codeinstitute.net/ie/) for great course contents to help me build this website.
+- Thanks my mentor Mohammad Shami for his support, suggestions and inspiration.
+- I thank my wife for her support and ideas for this website.
