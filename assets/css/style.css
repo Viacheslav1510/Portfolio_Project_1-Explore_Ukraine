@@ -288,6 +288,7 @@ textarea {
 
 /* page 404 */
 #not-found {
+    padding-top: 66px;
     text-align: center;
     color: #ffffff;
     font-weight: 800;
@@ -418,6 +419,13 @@ textarea {
 
 @media screen and (max-width: 400px) {
 
+    /* header background */
+    #header {
+        background: url('../images/small-background.webp') no-repeat;
+        background-size: cover;
+        height: 100vh;
+        overflow: hidden;
+    }
     /* navbar */
     .navbar {
         padding: 5px;
