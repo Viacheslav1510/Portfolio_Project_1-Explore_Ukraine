@@ -129,6 +129,9 @@ Website consists of two separate pages:
 <details><summary>Shop</summary>
 <img src="docs/wireframes/shop-page.png">
 </details>
+<details><summary>Error page</summary>
+<img src="docs/wireframes/404-page.png">
+</details>
 
 ## Technologies Used
 
