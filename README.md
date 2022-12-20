@@ -39,6 +39,7 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
 - [Validation](#validation)
   - [HTML Validation](#html-validation)
   - [CSS Validation](#css-validation)
+    - [Accessibility](#accessibility)
   - [Lighthouse testing](#lighthouse-testing)
     - [Desktop](#desktop)
     - [Mobile](#mobile)
@@ -203,10 +204,16 @@ Tested HTML code with [W3C Validator](https://validator.w3.org/).
 ### CSS Validation
 Tested CSS code with [W3C Jigsaw CSS Validation Service](https://jigsaw.w3.org/css-validator/).
 When validating the page as a whole, the validator shows some errors linked to Bootstrap v5.0. When validating just my own custom CSS it passes with no errors found and some warnings associated to using root variables.
-- Whole page
-  <img src="docs/validation/validation-css-whole-page.png" alt="Css Validation whole">
-- Custom CSS
-  <img src="docs/validation/validation-css-style.png" alt="Css Validation whole">
+<details><summary>Whole page</summary>
+<img src="docs/validation/validation-css-whole-page.png" alt="Css Validation whole">
+</details>
+
+<details><summary>Custom CSS</summary>
+<img src="docs/validation/validation-css-style.png" alt="Css Validation whole">
+</details>  
+
+#### Accessibility
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards.
 
 ### Lighthouse testing
 #### Desktop
