@@ -201,7 +201,7 @@ The website was tested on the following browsers:
 | Navbar divides into two rows on xs screen size |Decrease navbar padding and font size on xs screen|
 | Pictures look stretched on medium and small screens|Decrease images height in media query|
 | Low performance | Change hero image to webp format  |
-| Low accessebility  | Add aria-label attribute to footer links and change h4 to <p> in main text  |
+| Low accessebility  | Add aria-label attribute to footer links and change h4 to paragraph in main text  |
 
 ## Credits
 
