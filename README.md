@@ -35,6 +35,7 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
   - [Contacts section and footer section](#contacts-section-and-footer-section)
   - [Shop page main section](#shop-page-main-section)
   - [Shop page google map section](#shop-page-google-map-section)
+  - [Page 404](#page-404)
 - [Validation](#validation)
   - [HTML Validation](#html-validation)
   - [CSS Validation](#css-validation)
@@ -80,11 +81,12 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
 ### User Stories
 
 #### First-time User 
-1. As a first time user, I want to know the best places in the country
-2. I want to find a place to stay and a good place to eat
-3. I want to apply for a tour calculation
-4. I want to find the best souvenirs to remember the trip
-5. As a first time user, I want easy to contact the company and get a response
+1. As a first time user, I want to be inspired to travel
+2. As a first time user, I want to know the best places in the country
+3. I want to find a place to stay and a good place to eat
+4. I want to apply for a tour calculation
+5. I want to find the best souvenirs to remember the trip
+6. As a first time user, I want easy to contact the company and get a response
   
 #### Returning User
 6. As a a returning user, I want to find new ways to travel
@@ -97,6 +99,7 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
 12. As the site owner, I want users to to get to know the most common places in Ukraine.
 13. As the site owner, I want users to be able to contact us.
 14. As the site owner, I want to give users an opportunity to choose souvenirs from the store.
+15. Tell my website viewers information if the requested page is unavailable or, in some cases, doesn't exist.
 
 ## Design
 
@@ -154,26 +157,37 @@ Website consists of two separate pages:
 
 ## Features
 ### Header
-The header contains background image, navbar with logo and main text. Navbar is
-sticky on scrolling and let the user navigate through sections and pages. The header is responsive on all screens.
+- The header contains background image, navbar with logo and main text.
+- Navbar is sticky on scrolling and let the user navigate through sections and pages.
+- The header is responsive on all screens.
+- User stories covered: 1, 12.
 <img src="docs/features/feature-header.png" alt="Website Header"/>
 
 ### Tours section
-The tours section shows several significant places with links, which contains helps to find more detailed information.
+- The tours section shows several significant places with links, which helps to find more detailed information about tour.
+- User stories covered: 3, 7, 8, 13.
 <img src="docs/features/feature-tours.png" alt="Website Tours"/>  
 
 ### Contacts section and footer section
-Contacts section show information about company and gives an opportunity to contact the company representative with a question or proposal.
-Footer contains icon links to social media.
+- Contacts section show information about company and gives an opportunity to contact the company representative with a question or proposal.
+- Footer contains icon links to social media.
+- User stories covered: 4, 6, 9, 10, 13.
 <img src="docs/features/feature-contacts.png" alt="Website Contacts"/>  
 
 ### Shop page main section
-Shop main section contains ideas for souvenirs from Ukraine and their description.
+- Shop main section contains ideas for souvenirs from Ukraine and their description.
+- User stories covered: 5, 15.
 <img src="docs/features/feature-shop-header.png" />
 
 ### Shop page google map section
-The last section shows google map, which helps user to find offline shop.
-<img src="docs/features/feature-shop-map.png"/>  
+- The last section shows google map, which helps user to find offline shop.
+- User stories covered: 11.
+<img src="docs/features/feature-shop-map.png"/>
+
+### Page 404
+- Tells website viewers the requested page is unavailable or, in some cases, doesn't exist and gives user opportunity to go back to main page.
+- User stories covered: 16.
+<img src="docs/features/feature-404-page.png"/>
 
 ## Validation
 
