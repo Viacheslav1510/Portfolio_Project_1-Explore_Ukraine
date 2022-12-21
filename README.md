@@ -39,7 +39,7 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
 - [Validation](#validation)
   - [HTML Validation](#html-validation)
   - [CSS Validation](#css-validation)
-    - [Accessibility](#accessibility)
+  - [Accessibility](#accessibility)
   - [Performance](#performance)
     - [Desktop](#desktop)
     - [Mobile](#mobile)
@@ -213,7 +213,7 @@ When validating the page as a whole, the validator shows some errors linked to B
 <img src="docs/validation/validation-css-style.png" alt="Css Validation whole">
 </details>  
 
-#### Accessibility
+### Accessibility
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards.
 <details><summary>Home</summary>
 <img src="docs/validation/accessebility-index.png" alt="Css Validation whole">
