@@ -44,6 +44,7 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
     - [Desktop](#desktop)
     - [Mobile](#mobile)
   - [Browser compatibility](#browser-compatibility)
+  - [Testing user stories](#testing-user-stories)
 - [Bugs](#bugs)
 - [Credits](#credits)
   - [Code](#code)
@@ -90,17 +91,17 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
 6. As a first time user, I want easy to contact the company and get a response
   
 #### Returning User
-6. As a a returning user, I want to find new ways to travel
-7. I want to see the possibility of recreation in the mountains or at the sea, as well as the sights of the cities
-8. As a returning user, I want to leave some comment, suggestion or message to the staff
-9. As a returning user, I want to find the company on social media
-10. I want to easily find a souvenir shop on the map
+7. As a a returning user, I want to find new ways to travel
+8. I want to see the possibility of recreation in the mountains or at the sea, as well as the sights of the cities
+9. As a returning user, I want to leave some comment, suggestion or message to the staff
+10. As a returning user, I want to find the company on social media
+11. I want to easily find a souvenir shop on the map
 #### Site Owner
-11. As the site owner, I want users to easy find what this website about
-12. As the site owner, I want users to to get to know the most common places in Ukraine.
-13. As the site owner, I want users to be able to contact us.
-14. As the site owner, I want to give users an opportunity to choose souvenirs from the store.
-15. Tell my website viewers information if the requested page is unavailable or, in some cases, doesn't exist.
+12. As the site owner, I want users to easy find what this website about
+13. As the site owner, I want users to to get to know the most common places in Ukraine.
+14. As the site owner, I want users to be able to contact us.
+15. As the site owner, I want to give users an opportunity to choose souvenirs from the store.
+16. Tell my website viewers information if the requested page is unavailable or, in some cases, doesn't exist.
 
 ## Design
 
@@ -242,13 +243,149 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 <img src="docs/validation/shop-mobile.png" alt="Css Validation whole">
 </details> 
 
-
 ### Browser compatibility
 The website was tested on the following browsers:
 - Google Chrome
 - Mozilla Firefox
 - Microsoft Egde
 - Safari
+
+### Testing user stories
+1. As a first time user, I want to be inspired to travel
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Header | Open Webpage | The first feeling from the seen picturesque nature inspires for travel| Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-1.png">
+</details>
+
+2. As a first time user, I want to know the best places in the country
+   
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Tours section | Click "Tours" in navbar | See several significant places with links, which helps to find more detailed information about tour.| Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-2.png">
+</details>
+
+3. I want to find a place to stay and a good place to eat
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Tours section | Click "Tours" in navbar and tap link "Find more" | See website, which helps to find more detailed information about city and it's significant places.| Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-3-1.png">
+<img src="docs/user-story-testing/user-story-3-2.png">
+<img src="docs/user-story-testing/user-story-3-3.png">
+</details>
+
+4. .6 I want to apply for a tour calculation or as a first time user, I want easy to contact the company and get a response.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contacts section | Click "Contacts" in navbar and fill out the form | See contact form, which helps to get in touch with company| Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-4-1.png">
+</details>
+
+5. I want to find the best souvenirs to remember the trip
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|Home page | Click "Shop" in navbar | See shop page| Works as expected |
+|Shop page | Scroll down | See ideas for souvenirs| Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-5-1.png">
+<img src="docs/user-story-testing/user-story-5-2.png">
+</details>
+
+7. .8 As a a returning user, I want to find new ways to travel and I want to see the possibility of recreation in the mountains or at the sea, as well as the sights of the cities.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|Home page | Click "Tours" in navbar | See tours section with ideas for travel| Works as expected |
+|Home page | Scroll down through tours section | See several significant places| Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-7-1.png">
+<img src="docs/user-story-testing/user-story-7-2.png">
+</details>
+
+9. As a returning user, I want to leave some comment, suggestion or message to the staff.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contacts section | Click "Contacts" in navbar | See contact form and information about company | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-9.png">
+</details>
+
+10.  As a returning user, I want to find the company on social media.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|Home page | Click "Contacts" in navbar | See contacts section with social links in a bottom| Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-10.png">
+</details>
+
+11. I want to easily find a souvenir shop on the map
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|Home page | Click "Shop" in navbar | See shop page| Works as expected |
+|Shop page | Click "Map" in navbar | See google map to find shop| Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-11-1.png">
+<img src="docs/user-story-testing/user-story-11-2.png">
+</details>
+
+12. As the site owner, I want users to easy find what this website about
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|Header | Open Webpage | The main text shows what this website about| Works as expected 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-12.png">
+</details>
+
+13.  As the site owner, I want users to to get to know the most common places in Ukraine.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Tours section | Click "Tours" in navbar | See several significant places| Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-13.png">
+</details>
+
+14.   As the site owner, I want users to be able to contact us.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contacts section | Click "Contacts" in navbar | See contact form and information about company | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-7-2.png">
+</details>
+
+15.   As the site owner, I want to give users an opportunity to choose souvenirs from the store.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Shop page | Click "Shop" in navbar | See the most common souvenirs on the page | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-15-1.png">
+<img src="docs/user-story-testing/user-story-15-2.png">
+</details>
+
+16.   Tell my website viewers information if the requested page is unavailable or, in some cases, doesn't exist.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Error page | Request unavailable  page | See the 404 error page | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-16.png">
+</details>
 
 ## Bugs
 | **Bug**       | **Fix**        |
