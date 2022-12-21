@@ -163,12 +163,14 @@
             <form class="contact-form" action="https://formdump.codeinstitute.net" method="POST">
 
                 <h2>Get in touch</h2>
-      
-                <input type="text" class="field" placeholder="Your Name" name="name" required>
-                <input type="email" class="field" placeholder="Your Email" name="email" required>
-                <input type="text" class="field" placeholder="Phone" name="phone" required>
-      
-                <textarea placeholder="Your message" name="message"></textarea>
+                <label for="name">Name:</label>
+                <input type="text" id="name" class="field" placeholder="Your Name" name="name" required>
+                <label for="email">Email:</label>
+                <input type="email" id="email" class="field" placeholder="Your Email" name="email" required>
+                <label for="phone">Phone:</label>
+                <input type="text" id="phone" class="field" placeholder="+3531234568" name="phone" required>
+                <label for="message">Message:</label>
+                <textarea id="message" placeholder="Your message" name="message"></textarea>
                 <input type="submit" name="send-message" value="Send" class="btn">
             </form>
         </section>
