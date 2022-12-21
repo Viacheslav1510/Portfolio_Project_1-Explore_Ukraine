@@ -388,7 +388,6 @@ iframe {
 }
 
 @media screen and (max-width: 768px) {
-
     /* places section */
     .row {
         flex-direction: column-reverse;
@@ -425,21 +424,20 @@ iframe {
 
 @media screen and (max-width: 400px) {
 
-    /* header background */
-    #header {
-        background: url('../images/small-background.webp') no-repeat;
-        background-size: cover;
-        height: 100vh;
-        overflow: hidden;
-    }
     /* navbar */
     .navbar {
         padding: 5px;
+        background-color: rgba(254, 249, 167, 0.7);
     }
     .navbar a {
         font-size: 1.25em;
+        text-align: right;
+        padding-right: 5px;
     }
-
+    /*contacts section */
+    #contacts {
+        padding: 70px 10px 160px;
+    }
     /* shop page */
     .store-image img {
         height: 250px;
