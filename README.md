@@ -40,7 +40,7 @@ Discover Ukraine is a website for tourists who want to go on a trip to Ukraine. 
   - [HTML Validation](#html-validation)
   - [CSS Validation](#css-validation)
     - [Accessibility](#accessibility)
-  - [Lighthouse testing](#lighthouse-testing)
+  - [Performance](#performance)
     - [Desktop](#desktop)
     - [Mobile](#mobile)
   - [Browser compatibility](#browser-compatibility)
@@ -214,15 +214,34 @@ When validating the page as a whole, the validator shows some errors linked to B
 
 #### Accessibility
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards.
+<details><summary>Home</summary>
+<img src="docs/validation/accessebility-index.png" alt="Css Validation whole">
+</details>
 
-### Lighthouse testing
+<details><summary>Shop</summary>
+<img src="docs/validation/accessebility-shop.png" alt="Css Validation whole">
+</details>  
+
+### Performance
+Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website.
 #### Desktop
-Tested website for desktop on Google Devtools Lighthouse and received high marks.
+<details><summary>Home</summary>
 <img src="docs/validation/desktop-lighthouse.png" alt="Css Validation whole">
+</details>
+
+<details><summary>Shop</summary>
+<img src="docs/validation/shop-desktop.png" alt="Css Validation whole">
+</details> 
 
 #### Mobile
-Tested website for mobile on Google Devtools Lighthouse.
+<details><summary>Home</summary>
 <img src="docs/validation/mobile-lighthouse.png" alt="Css Validation whole">
+</details>
+
+<details><summary>Shop</summary>
+<img src="docs/validation/shop-mobile.png" alt="Css Validation whole">
+</details> 
+
 
 ### Browser compatibility
 The website was tested on the following browsers:
